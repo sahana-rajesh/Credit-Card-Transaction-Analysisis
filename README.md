@@ -6,6 +6,8 @@
 ![Rows](https://img.shields.io/badge/Dataset-107K%20Transactions-lightgrey)
 
 ---
+## Live Dashboard
+[![Tableau](https://img.shields.io/badge/Tableau-View%20Dashboard-blue?logo=tableau)](https://public.tableau.com/app/profile/sahana.rajeshlal/viz/CreditCardSpendingFraudAnalysis/Dashboard1)
 
 ## Project Overview
 
